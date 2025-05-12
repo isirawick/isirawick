@@ -1,4 +1,4 @@
-<div><img src="githubcover.png"></div>
+<div><img src="githubcoverpage.png"></div>
 <h1 align="center">Hi 👋, I'm Isira Wickramasinghe</h1>
 <h3 align="center">I'm a software engineering undergraduate in Sri Lanka. I am interested in Web Development.</h3>
 
